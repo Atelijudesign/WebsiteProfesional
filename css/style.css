@@ -1,4 +1,25 @@
 /*Home Footer*/
+.section-5 {
+  width: 100%;
+  height: 30vh;
+  background-color: #222;
+  flex-direction: column; }
+  .section-5 .section-5__rrss {
+    margin-bottom: 5rem; }
+  .section-5 .section-5__rrss_link {
+    margin: 0 2rem;
+    padding: 0.7rem;
+    background-color: #e41c6f; }
+  .section-5 .section-5__rrss_link i {
+    font-size: 3rem;
+    color: #fff; }
+  .section-5 .section-5__copyright {
+    color: #aaa;
+    font-size: 2rem;
+    letter-spacing: 0.2rem;
+    font-weight: 300;
+    text-align: center; }
+
 /*End Footer*/
 /*Home Header*/
 .section-1 {
